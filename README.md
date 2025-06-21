@@ -22,12 +22,20 @@ A passionate full stack developer and aspiring data analyst from India, explorin
 ---
 
 ### 🌐 Connect with Me
-
 <p align="center">
-  <a href="https://linkedin.com/in/harini--vs"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/harinisridharan2"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-  <a href="https://www.leetcode.com/harinisridharan10"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/harini--vs/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" style="margin: 10px;" />
+  </a>
+  <a href="https://www.hackerrank.com/harinisridharan2" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" alt="HackerRank" />
+  </a>
+  <a href="https://leetcode.com/harinisridharan10/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" alt="LeetCode" />
+  </a>
 </p>
+
+
+
 
 ---
 
