@@ -1,19 +1,21 @@
+
+
 <!-- 🌸 Profile View Badge (Left Corner) -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vsharini&style=flat-square&color=F7931E" alt="Harini's profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=vsharini&style=flat-square&color=9b59b6" alt="Profile Views"/>
 </p>
-
 <!-- 📝 Typing Animation (Left-Aligned) -->
+<!-- 🌸 Typing Animation (Centered) -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7931E&center=false&vCenter=true&width=900&lines=Hi+👋%2C+I'm+Harini+V+S;Full+Stack+Developer+%7C+Cloud+Explorer;Aspiring+Data+Analyst+%7C+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=900&lines=Hi+👋%2C+I'm+Harini+V+S;Full+Stack+Developer+%7C+Cloud+Explorer;Aspiring+Data+Analyst+%7C+AI+Enthusiast" alt="Typing SVG" />
 </h1>
+
+
 
 <p align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500">
 <br><br>
 </p>
-
-
 
 ---
 
