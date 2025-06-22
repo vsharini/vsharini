@@ -1,15 +1,13 @@
 
-
-<!-- 🌸 Profile View Badge (Left Corner) -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vsharini&style=flat-square&color=9b59b6" alt="Profile Views"/>
-</p>
 <!-- 📝 Typing Animation (Left-Aligned) -->
 <!-- 🌸 Typing Animation (Centered) -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=900&lines=Hi+👋%2C+I'm+Harini+V+S;+AI+Enthusiast+%7C+Cloud+Explorer;Software+Developer+%7C+Aspiring+Data+Analyst" alt="Typing SVG" />
 </h1>
-
+<!-- 🌸 Profile View Badge (Left Corner) -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vsharini&style=flat-square&color=9b59b6" alt="Profile Views"/>
+</p>
 
 
 <p align="center">
